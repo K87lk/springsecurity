@@ -1,2 +1,2 @@
 # springsecurity
-An attempt to create a multiconfiguration Spring Security apllication 
+an attempt to create a multiconfigured Spring Security apllication 
